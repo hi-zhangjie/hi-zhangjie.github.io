@@ -30,10 +30,4 @@ Work experience
 Skills
 ======
 * 我是垃圾，请让我回到垃圾箱，谢谢
-<!-- * Skill 1 -->
-<!-- * Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3 -->
-<!-- * Skill 3 -->
 
