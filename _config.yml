@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "    张 杰   " #"Your Sidebar Name"
+  name             : "    张 杰    " #"Your Sidebar Name"
   avatar           : "profile.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
