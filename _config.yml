@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "    张 杰    " #"Your Sidebar Name"
+  name             : "Jie Zhang" #"Your Sidebar Name"
   avatar           : "profile.jpg"
-  bio              : "我醒了，我没醒"
-  location         : "目前在深圳"
+  bio              : "Every day is a gift, make the most of it."
+  # location         : ""
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=mpXZ5cUAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "hi-zhangjie"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
