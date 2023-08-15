@@ -17,7 +17,7 @@ Current
 Short Bio
 ===
 
-I am **Jie Zhang (张杰)**, a third-year master student at the [School of Software Engineering](http://en.scgy.ustc.edu.cn/), [Xi'an Jiaotong University (XJTU)](http://en.ustc.edu.cn/), majoring in Software Engineering. 
+I am **Jie Zhang (张杰)**, a third-year master's student at the [School of Software Engineering](http://se.xjtu.edu.cn/), [Xi'an Jiaotong University (XJTU)](http://www.xjtu.edu.cn/), majoring in Software Engineering. 
 
 My primary research interests are 3D computer vision.
 
@@ -47,4 +47,5 @@ document.write("Last modifid at: "+document.lastModified+"" )
 
 ---
 
-<a href="https://info.flagcounter.com/21GO"><img src="https://s01.flagcounter.com/map/21GO/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+<!-- <a href="https://info.flagcounter.com/21GO"><img src="https://s01.flagcounter.com/map/21GO/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a> -->
+<a href="https://clustrmaps.com/site/1bw29"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=B5POVQXbLf1130-AF-tHOvMmAKKQAfuS-x8vKClFdZw&cl=ffffff" /></a>
