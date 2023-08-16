@@ -75,10 +75,10 @@ DualGenerator: Information Interaction-based Generative Network for Point Cloud 
 <!-- <a href="https://info.flagcounter.com/21GO"><img src="https://s01.flagcounter.com/map/21GO/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a> -->
 <!-- <a href="https://clustrmaps.com/site/1bw29"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=B5POVQXbLf1130-AF-tHOvMmAKKQAfuS-x8vKClFdZw&cl=ffffff" /></a> -->
 
-<div style="text-align:center;">
+<!-- <div style="text-align:center;">
   <a href="https://clustrmaps.com/site/1bw29" title="Visit tracker">
     <img src="//www.clustrmaps.com/map_v2.png?d=B5POVQXbLf1130-AF-tHOvMmAKKQAfuS-x8vKClFdZw&cl=ffffff" />
   </a>
-</div>
+</div> -->
 
 ---
