@@ -19,7 +19,7 @@ Short Bio
 
 I am **Jie Zhang (张杰)**, a third-year master's student at the [School of Software Engineering](http://se.xjtu.edu.cn/), [Xi'an Jiaotong University (XJTU)](http://www.xjtu.edu.cn/), majoring in Software Engineering. 
 
-My primary research interests are 3D computer vision.
+My primary research interests are 3D computer vision and human-centric computer vision.
 
 
 Education
@@ -52,16 +52,14 @@ Publications
 
 ## Recent Preprints
 
-DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion [[PDF]](https://arxiv.org/pdf/2305.09132.pdf) [[Code]](https://arxiv.org/pdf/2305.09132.pdf)
-
-![Overview](./../images/image-alignment-300x200.jpg)
-
-DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion [[PDF]](https://arxiv.org/pdf/2305.09132.pdf) [[Code]](https://arxiv.org/pdf/2305.09132.pdf)
-
-![Overview](./../images/image-alignment-300x200.jpg)
-
-DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion [[PDF]](https://arxiv.org/pdf/2305.09132.pdf) [[Code]](https://arxiv.org/pdf/2305.09132.pdf)
-![Overview](./../images/image-alignment-300x200.jpg)
+* DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion [[PDF]](https://arxiv.org/pdf/2305.09132.pdf) [[Code]](https://arxiv.org/pdf/2305.09132.pdf)
+  * ![Overview](./../images/image-alignment-300x200.jpg)
+* DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion [[PDF]](https://arxiv.org/pdf/2305.09132.pdf) [[Code]](https://arxiv.org/pdf/2305.09132.pdf)
+  * ![Overview](./../images/image-alignment-300x200.jpg)
+* DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion [[PDF]](https://arxiv.org/pdf/2305.09132.pdf) [[Code]](https://arxiv.org/pdf/2305.09132.pdf)
+  * ![Overview](./../images/image-alignment-300x200.jpg)
+* DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion [[PDF]](https://arxiv.org/pdf/2305.09132.pdf) [[Code]](https://arxiv.org/pdf/2305.09132.pdf)
+  * ![Overview](./../images/image-alignment-300x200.jpg)
 
 
 
