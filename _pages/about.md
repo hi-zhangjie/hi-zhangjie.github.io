@@ -61,11 +61,21 @@ Publications
 * DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion [[PDF]](https://arxiv.org/pdf/2305.09132.pdf) [[Code]](https://arxiv.org/pdf/2305.09132.pdf)
   * ![Overview](./../images/image-alignment-300x200.jpg)
 
+<div style="overflow: auto;">
+    <div style="float: left; width: 50%;">
+        <!-- 左侧列的内容 -->
+        <p>这是左侧列的文字内容。</p>
+    </div>
+    <div style="float: right; width: 50%;">
+        <!-- 右侧列的内容 -->
+        <img src="./../images/image-alignment-300x200.jpg" alt="图片">
+    </div>
+</div>
 
 
-## 2023
+<!-- ## 2023
 
-## Undergraduate
+## Undergraduate -->
 
 
 ---
@@ -80,3 +90,9 @@ Publications
 </div> -->
 
 ---
+
+<!-- C:\Users\int.jie.zhang\hi-zhangjie.github.io\_pages\about.md
+C:\Users\int.jie.zhang\hi-zhangjie.github.io\_includes\footer.html
+C:\Users\int.jie.zhang\hi-zhangjie.github.io\_data\navigation.yml
+C:\Users\int.jie.zhang\hi-zhangjie.github.io\_pages\sitemap.md
+C:\Users\int.jie.zhang\hi-zhangjie.github.io\_includes\footer\custom.html -->
