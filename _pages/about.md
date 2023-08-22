@@ -61,13 +61,17 @@ Publications
 
 
 <div style="overflow: auto;">
-    <div style="float: right; width: 50%;">
+    <div style="float: left; width: 50%;">
         <!-- 右侧列的内容 -->
         <img src="./../images/image-alignment-300x200.jpg" alt="图片">
     </div>
-    <div style="float: left; width: 50%;">
+    <div style="float: right; width: 50%;">
         <!-- 左侧列的内容 -->
-        <p>DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion [[PDF]](https://arxiv.org/pdf/2305.09132.pdf) [[Code]](https://arxiv.org/pdf/2305.09132.pdf)</p>
+        <p>
+        "DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion"
+        <a href="https://arxiv.org/pdf/2305.09132.pdf">[PDF]</a>
+        <a href="https://arxiv.org/pdf/2305.09132.pdf">[Code]</a>
+        </p>
     </div>
 </div>
 
