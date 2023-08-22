@@ -55,9 +55,11 @@ Publications
 * Semantic-Human: Neural Rendering of Humans from Monocular Video with Human Parsing [[PDF]](https://arxiv.org/pdf/2308.09894.pdf) [[Code]](https://arxiv.org/pdf/2308.09894.pdf)
   * **Jie Zhang**, Pengcheng Shi, Zaiwang Gu, Yiyang Zhou, Zhi Wang
   * ![Overview](./../images/paper/semantichuman.png)
+
 * Overlap Bias Matching is Necessary for Point Cloud Registration [[PDF]](https://arxiv.org/abs/2308.09364) [[Code]](https://arxiv.org/abs/2308.09364)
   * Pengcheng Shi, **Jie Zhang**, Haozhe Cheng, Junyang Wang, Yiyang Zhou, Chenlin Zhao, Jihua Zhu
   * ![Overview](./../images/paper/overla.png)
-<!-- * DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion [[PDF]](https://arxiv.org/pdf/2305.09132.pdf) [[Code]](https://arxiv.org/pdf/2305.09132.pdf)
+
+* DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion [[PDF]](https://arxiv.org/pdf/2305.09132.pdf) [[Code]](https://arxiv.org/pdf/2305.09132.pdf)
   * Pengcheng Shi, Haozhe Cheng, Xu Han, Yiyang Zhou, **Jie Zhang**, Jihua Zhu
-  * ![Overview](./../images/paper/DualGenerator.png) -->
+  * ![Overview](./../images/paper/DualGenerator.png)
