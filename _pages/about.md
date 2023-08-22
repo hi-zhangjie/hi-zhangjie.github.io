@@ -52,60 +52,12 @@ Publications
 
 ## Recent Preprints
 
+* Semantic-Human: Neural Rendering of Humans from Monocular Video with Human Parsing [[PDF]](https://arxiv.org/pdf/2308.09894.pdf) [[Code]](https://arxiv.org/pdf/2308.09894.pdf)
+  * **Jie Zhang**, Pengcheng Shi, Zaiwang Gu, Yiyang Zhou, Zhi Wang
+  * ![Overview](./../images/paper/semantichuman.png)
+* Overlap Bias Matching is Necessary for Point Cloud Registration [[PDF]](https://arxiv.org/abs/2308.09364) [[Code]](https://arxiv.org/abs/2308.09364)
+  * Pengcheng Shi, **Jie Zhang**, Haozhe Cheng, Junyang Wang, Yiyang Zhou, Chenlin Zhao, Jihua Zhu
+  * ![Overview](./../images/paper/overla.png)
 * DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion [[PDF]](https://arxiv.org/pdf/2305.09132.pdf) [[Code]](https://arxiv.org/pdf/2305.09132.pdf)
-  * **Shi, P.**, Cheng, H., Han, X., Zhou, Y., & Zhu, J.
-  * ![Overview](./../images/image-alignment-300x200.jpg)
-<!-- * DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion [[PDF]](https://arxiv.org/pdf/2305.09132.pdf) [[Code]](https://arxiv.org/pdf/2305.09132.pdf)
-  * ![Overview](./../images/image-alignment-300x200.jpg)
-* DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion [[PDF]](https://arxiv.org/pdf/2305.09132.pdf) [[Code]](https://arxiv.org/pdf/2305.09132.pdf)
-  * ![Overview](./../images/image-alignment-300x200.jpg) -->
-
-
-<!-- <div style="overflow: auto;">
-    <div style="float: left; width: 50%;">
-        <!-- 右侧列的内容 -->
-        <img src="./../images/image-alignment-300x200.jpg" alt="图片">
-    </div>
-    <div style="float: right; width: 50%;">
-        <!-- 左侧列的内容 -->
-        <p>
-        "DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion"
-        <a href="https://arxiv.org/pdf/2305.09132.pdf">[PDF]</a>
-        <a href="https://arxiv.org/pdf/2305.09132.pdf">[Code]</a>
-        </p>
-    </div>
-</div> -->
-
-<!-- <div style="overflow: auto;"> 
-  <div style="float: left; width: 50%; margin: 0; padding: 0;"> <!-- 左侧列的内容 --> 
-    <img src="./../images/image-alignment-300x200.jpg" alt="图片" style="margin: 0; padding: 0;"> 
-  </div> 
-  <div style="float: right; width: 50%; margin: 0; padding: 0;"> <!-- 右侧列的内容 --> 
-    <p style="margin: 0; padding: 0;">"DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion" <a href="https://arxiv.org/pdf/2305.09132.pdf">[PDF]</a> <a href="https://github.com/spc121/DualGenerator">[Code]</a> </p> 
-  </div> 
-</div> -->
-
-
-<!-- ## 2023
-
-## Undergraduate -->
-
-
----
-
-<!-- <a href="https://info.flagcounter.com/21GO"><img src="https://s01.flagcounter.com/map/21GO/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a> -->
-<!-- <a href="https://clustrmaps.com/site/1bw29"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=B5POVQXbLf1130-AF-tHOvMmAKKQAfuS-x8vKClFdZw&cl=ffffff" /></a> -->
-
-<!-- <div style="text-align:center;">
-  <a href="https://clustrmaps.com/site/1bw29" title="Visit tracker">
-    <img src="//www.clustrmaps.com/map_v2.png?d=B5POVQXbLf1130-AF-tHOvMmAKKQAfuS-x8vKClFdZw&cl=ffffff" />
-  </a>
-</div> -->
-
----
-
-<!-- C:\Users\int.jie.zhang\hi-zhangjie.github.io\_pages\about.md
-C:\Users\int.jie.zhang\hi-zhangjie.github.io\_includes\footer.html
-C:\Users\int.jie.zhang\hi-zhangjie.github.io\_data\navigation.yml
-C:\Users\int.jie.zhang\hi-zhangjie.github.io\_pages\sitemap.md
-C:\Users\int.jie.zhang\hi-zhangjie.github.io\_includes\footer\custom.html -->
+  * Pengcheng Shi, Haozhe Cheng, Xu Han, Yiyang Zhou, **Jie Zhang**, Jihua Zhu
+  * ![Overview](./../images/paper/DualGenerator.png)
