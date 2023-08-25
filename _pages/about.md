@@ -30,20 +30,6 @@ Education
 Honors and Awards
 ===
 * National Scholarship     2020
-<!-- * Outstanding Undergraduate Scholarship, Gold award    **Top 3%**     2020  -->
-
-
-<!-- Activities
-===
-* TA in *Mathematical Analysis B*, 2021 Fall
-* Editor of the Wechat account of School of Gifted Young, USTC
-* Member of School of Gifted Young Student Union
-* Attendee of ACM TURC 2021, Hefei, China -->
-
-
-<script>
-document.write("Last modifid at: "+document.lastModified+"" )
-</script>
 
 ---
 
@@ -60,6 +46,11 @@ Publications
   * Pengcheng Shi, **Jie Zhang**, Haozhe Cheng, Junyang Wang, Yiyang Zhou, Chenlin Zhao, Jihua Zhu
   * ![Overview](./../images/paper/overla.png)
 
-* DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion [[PDF]](https://arxiv.org/pdf/2305.09132.pdf) [[Code]](https://arxiv.org/pdf/2305.09132.pdf)
+
+<!-- * DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion [[PDF]](https://arxiv.org/pdf/2305.09132.pdf) [[Code]](https://arxiv.org/pdf/2305.09132.pdf)
   * Pengcheng Shi, Haozhe Cheng, Xu Han, Yiyang Zhou, **Jie Zhang**, Jihua Zhu
-  * ![Overview](./../images/paper/DualGenerator.png)
+  * ![Overview](./../images/paper/DualGenerator.png) -->
+
+<script>
+document.write("Last modifid at: "+document.lastModified+"" )
+</script>
