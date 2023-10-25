@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Current
+<!-- Current
 ===
 
-*I am looking for a Ph.D. position in machine learning.*
+*I am looking for a Ph.D. position in machine learning.* -->
 
 
 Short Bio
@@ -46,6 +46,27 @@ Publications
   * Pengcheng Shi, **Jie Zhang**, Haozhe Cheng, Junyang Wang, Yiyang Zhou, Chenlin Zhao, Jihua Zhu
   * ![Overview](./../images/paper/overla.png)
 
+
+<!-- * DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion [[PDF]](https://arxiv.org/pdf/2305.09132.pdf) [[Code]](https://arxiv.org/pdf/2305.09132.pdf)
+  * Pengcheng Shi, Haozhe Cheng, Xu Han, Yiyang Zhou, **Jie Zhang**, Jihua Zhu
+  * ![Overview](./../images/paper/DualGenerator.png) -->
+
+Research Experience
+===
+
+## In progress
+
+* 3D Gaussian Splatting for Radiance Field Rendering from Blurred Images 
+  * **Jie Zhang**
+  * ![Overview](./../images/paper/blurcar.png)
+
+* Inverting Neural Radiance Fields for Pose Estimation Insensitive to Initial Conditions
+  * **Jie Zhang**
+  * ![Overview](./../images/paper/inverse_pose_lego.gif)
+
+## Done
+
+* Preparing to update.
 
 <!-- * DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion [[PDF]](https://arxiv.org/pdf/2305.09132.pdf) [[Code]](https://arxiv.org/pdf/2305.09132.pdf)
   * Pengcheng Shi, Haozhe Cheng, Xu Han, Yiyang Zhou, **Jie Zhang**, Jihua Zhu
