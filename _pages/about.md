@@ -56,13 +56,13 @@ Research Experience
 
 ## In progress
 
-* 3D Gaussian Splatting for Radiance Field Rendering from Blurred Images 
+<!-- * 3D Gaussian Splatting for Radiance Field Rendering from Blurred Images 
   * **Jie Zhang**
   * ![Overview](./../images/paper/blurcar_resize.png)
 
 * Inverting Neural Radiance Fields for Pose Estimation Insensitive to Initial Conditions
   * **Jie Zhang**
-  * ![Overview](./../images/paper/inverse_pose_lego.gif)
+  * ![Overview](./../images/paper/inverse_pose_lego.gif) -->
 
 ## Done
 
