@@ -10,7 +10,7 @@ redirect_from:
 
 Current
 ===
-
+<!-- 
 *I am looking for a Ph.D. position in 3D vision and scene understanding.*
 
 
@@ -25,7 +25,7 @@ My primary research interests are 3D computer vision and human-centric computer 
 Education
 ===
 * Sept. 2021 --- June 2024: M.S. in Software Engineering, School of Software Engineering, Xi'an Jiaotong University
-* Sept. 2017 --- June 2021: B.S. in Information and Computational Science, School of Mathematics and Physics, Chengdu University of Technology
+* Sept. 2017 --- June 2021: B.S. in Information and Computational Science, School of Mathematics and Physics, Chengdu University of Technology -->
 
 Honors and Awards
 ===
@@ -38,13 +38,13 @@ Publications
 
 ## Recent Preprints
 
-* Semantic-Human: Neural Rendering of Humans from Monocular Video with Human Parsing [[PDF]](https://arxiv.org/pdf/2308.09894.pdf) [[Code]](https://arxiv.org/pdf/2308.09894.pdf)
+<!-- * Semantic-Human: Neural Rendering of Humans from Monocular Video with Human Parsing [[PDF]](https://arxiv.org/pdf/2308.09894.pdf) [[Code]](https://arxiv.org/pdf/2308.09894.pdf)
   * **Jie Zhang**, Pengcheng Shi, Zaiwang Gu, Yiyang Zhou, Zhi Wang
   * ![Overview](./../images/paper/semantichuman.png)
 
 * Overlap Bias Matching is Necessary for Point Cloud Registration [[PDF]](https://arxiv.org/abs/2308.09364) [[Code]](https://arxiv.org/abs/2308.09364)
   * Pengcheng Shi, **Jie Zhang**, Haozhe Cheng, Junyang Wang, Yiyang Zhou, Chenlin Zhao, Jihua Zhu
-  * ![Overview](./../images/paper/overla.png)
+  * ![Overview](./../images/paper/overla.png) -->
 
 
 <!-- * DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion [[PDF]](https://arxiv.org/pdf/2305.09132.pdf) [[Code]](https://arxiv.org/pdf/2305.09132.pdf)
